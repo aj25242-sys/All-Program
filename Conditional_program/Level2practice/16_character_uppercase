@@ -1,0 +1,8 @@
+# 16. Check whether a character is uppercase.
+
+cha = input("Enter a character\t")
+
+if cha >= "A" and cha <= "Z":
+    print("Character in uppercase")
+else:
+    print("Character not in uppercase")

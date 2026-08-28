@@ -1,0 +1,25 @@
+1. Ramesh basic salary is input through the keyboard. His dearner allowance is 40% of basic salary and house rent allowance is 20% of basic salary. Write a program to calculate his gross salary HINT gross salary = basic salary + HRA + DA
+
+2. The distance between two cities (in Km)  is input through the keyboard . Write a program to convert and print this distance in meter, feet, inches and centimeter.
+
+3. If the marks obtained a student in five different subject are input through the keyboard find out of the aggregate marks and percentage marks obtained by the student Assume that maximum marks in the subject is 100.
+
+4. Temperature of a city in Fahrenheit degree is input through the keyboard. Write a program to convert this Temperature into centigrade degrees.
+
+5. Length and breadth of a rectagnle and radius of a circle are input through the keyboard. Write a program to calculate the area & perimeter of the rectagnle, and the area & circumference of the circle Rectangle area = length * breadth, perimeter = 2*(length + breadth) Circle area = 3.14 * radius2, circumference = 2*3.14*radius.
+
+6. Two numbers are input through the keyboard into two location C and D. Write a program to interchange the content of C and D.
+
+7. If a five-digit number is input the keyboad. Write a program to calucate the sum of the digit. (Hint: use the modulus operator %)
+
+8. If a four-digit number is input throgh the keyboard . Write a prgram to reverse the number.
+
+9. If a four-digit number is input through the keyboad. Write a program to obtain the sum of the first and last digit of this number.
+
+10. In a town, men = 52% total literacy - 48% literate Men = 35% of total population. Population = 80000. Write a program to find the total number of illieterate men and women.
+
+11. A cashier has currency note of 10, 50 and 100. If the amount to be withdrawn is input throght the keyboad in hundred, find the total number of currency notes of each denomination.
+
+12. If the total selling price of 15 items and the total profit earned on them is input through the keyboad. Write a program to find the cost of one item.
+
+13. If a five-digit number is input through the keyboad. Write a prgram to print a new number by adding 1 to each digit. Example - 12391 - 23402

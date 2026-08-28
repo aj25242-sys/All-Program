@@ -1,0 +1,22 @@
+Practise Question
+1. Print "Hello, World!"
+2. Take user input and display it back.
+3. Swap two number (with & without a third variable).
+4. Find square of a number.
+5. Calculate area & perimeter of circle, rectangle, triangle, square.
+6. Total amount of item purchased Take quantity & price per item, calculate total bill.
+7. Student grade calucator take marks of 5 subject , find percentage & grade.
+8. Convert time hours to minute to second.
+9. Discount calculator original price - (discount % x price).
+10. Shopping cart total Take multiple itmes (qty * price), calculate bill + GST.
+11. Electricity bill units *price per unit.
+12. Calculate simple interest.
+13. Currency converter usd to INR (fixed Rate).
+14. Library late fee - Days * fine per day.
+15. Railway ticket reservation passenger details, price per seat.
+16. Simple calculator - Add, subtract, multiply, divide two number.
+17. Salary calculator - Basic salary + HRA + DA - Tax.
+18. Movie ticket booking - price * number of ticket (discount on bulk).
+19. Restaurant bill - Menu items + Tax + tip.
+20. Convert celsius to Fahernheit.
+
